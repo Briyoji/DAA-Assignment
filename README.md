@@ -1,5 +1,5 @@
 To run
 `
-g++ main.cpp
+g++ main.cpp\n
 ./a.out > out.csv
 `
