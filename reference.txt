@@ -1,0 +1,2 @@
+l1 norm definition
+https://math.stackexchange.com/questions/4014974/understanding-l1-and-l2-norms
